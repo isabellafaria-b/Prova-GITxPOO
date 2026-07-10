@@ -88,7 +88,7 @@ Sobrescreva:
 
 ## Atributos
 
-- `nome`
+- nome`
 - `peso`
 - `velocidade`
 - `funcional` (`boolean`)

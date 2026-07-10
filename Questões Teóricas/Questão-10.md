@@ -16,7 +16,7 @@ Sobre essa declaração, assinale a alternativa correta.
 
 **A)** A declaração é inválida, pois uma variável do tipo `Integrante` não pode armazenar um objeto da classe `Programador`.
 
-**B)** A declaração é válida, pois `Programador` herda de `Integrante`, permitindo que uma referência da superclasse aponte para um objeto da subclasse.
+xx - **B)** A declaração é válida, pois `Programador` herda de `Integrante`, permitindo que uma referência da superclasse aponte para um objeto da subclasse.
 
 **C)** A declaração é válida apenas se a classe `Integrante` for declarada como `abstract`.
 

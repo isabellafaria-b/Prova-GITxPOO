@@ -14,6 +14,6 @@ Qual das alternativas abaixo está correta?
 
 **B)** O atributo `peso` pode ser acessado diretamente apenas pelas subclasses de `Robo`.
 
-**C)** O atributo `peso` só pode ser acessado diretamente dentro da própria classe `Robo`, sendo comum utilizar métodos `get` e `set` para disponibilizar seu acesso.
+xx - **C)** O atributo `peso` só pode ser acessado diretamente dentro da própria classe `Robo`, sendo comum utilizar métodos `get` e `set` para disponibilizar seu acesso.
 
 **D)** O modificador `private` impede que o atributo seja utilizado em qualquer método da classe `Robo`.

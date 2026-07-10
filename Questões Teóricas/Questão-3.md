@@ -8,6 +8,6 @@ Qual é a principal vantagem dessa abordagem?
 
 **B)** Garante que os atributos possam ser acessados apenas por classes da mesma hierarquia.
 
-**C)** Protege os dados do objeto, controlando como eles são acessados e modificados.
+xx - **C)** Protege os dados do objeto, controlando como eles são acessados e modificados.
 
 **D)** Faz com que os métodos da classe sejam herdados automaticamente pelas subclasses.

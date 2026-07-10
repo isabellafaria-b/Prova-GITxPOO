@@ -6,7 +6,7 @@ Qual é a sequência correta de ações para enviar suas alterações ao proprie
 
 **A)** Fazer um **Fork** do repositório, realizar as alterações diretamente no GitHub, executar um **Pull**, fazer um **Commit** e abrir um **Pull Request**.
 
-**B)** Fazer um **Fork** do repositório, cloná-lo para sua máquina, realizar as alterações, executar **Commit**, **Push** para o seu repositório e, por fim, abrir um **Pull Request** para o repositório original.
+xx - **B)** Fazer um **Fork** do repositório, cloná-lo para sua máquina, realizar as alterações, executar **Commit**, **Push** para o seu repositório e, por fim, abrir um **Pull Request** para o repositório original.
 
 **C)** Clonar o repositório original, realizar as alterações, executar **Commit**, **Push** para o repositório original e abrir um **Pull Request**.
 
